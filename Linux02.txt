@@ -1,5 +1,5 @@
 ﻿牛犇
-
+import os #Tom
 Linux系统第二天：
     1）制作压缩包tar与zip
     2) 管理用户与组：
